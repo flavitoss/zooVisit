@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\bin\Debug\net7.0\zooVisit.exe
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\bin\Debug\net7.0\zooVisit.deps.json
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\bin\Debug\net7.0\zooVisit.runtimeconfig.json
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\bin\Debug\net7.0\zooVisit.dll
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\bin\Debug\net7.0\zooVisit.pdb
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\obj\Debug\net7.0\zooVisit.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\obj\Debug\net7.0\zooVisit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\obj\Debug\net7.0\zooVisit.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\obj\Debug\net7.0\zooVisit.AssemblyInfo.cs
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\obj\Debug\net7.0\zooVisit.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\obj\Debug\net7.0\zooVisit.dll
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\obj\Debug\net7.0\refint\zooVisit.dll
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\obj\Debug\net7.0\zooVisit.pdb
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\obj\Debug\net7.0\zooVisit.genruntimeconfig.cache
+C:\Users\Flavio\Documents\GitHub\zooVisit\zooVisit\zooVisit\obj\Debug\net7.0\ref\zooVisit.dll
